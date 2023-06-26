@@ -12,7 +12,9 @@ In this game, the player controls a Pachimari (which acts as the katamari) and r
 
 ![pachikatamari game](images/pachi clip.mov | width=300)
 
-![pachikatamari game](images/pachi.png | width=300)
+<p align="center">
+  <img src="images/pachi.png" alt="pachikatamari game" width="300">
+</p>
 
 ## Rules
 
