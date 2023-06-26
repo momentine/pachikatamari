@@ -10,7 +10,7 @@ A 3D game that combines:
 
 In this game, the player controls a Pachimari (which acts as the katamari) and rolls it around to pick up other pachimari plushies. 
 
-![pachikatamari game](https://github.com/momentine/[pachikatamari]/main/images/pachi.png)
+![pachikatamari game](https://github.com/momentine/pachikatamari/main/images/pachi.png)
 
 ## Rules
 1. Falling off the platform will result as game over, and the game will automatically restart
