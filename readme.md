@@ -1,6 +1,6 @@
 # Pachikatamari (パチ塊)
 
-## Descripton 
+## Description
 
 Idea based on a pun
 
