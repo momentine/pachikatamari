@@ -2,7 +2,7 @@
 
 ## Description
 
-Idea based on a pun
+Idea based on a pun.
 
 A 3D game that combines: 
 - Overwatch's Pachimari (パチマリ), a Japanese plush of a half-onion, half-octopus creature. 
