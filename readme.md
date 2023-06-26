@@ -16,15 +16,17 @@ In this game, the player controls a Pachimari (which acts as the katamari) and r
 
 ## Rules
 
-1. Falling off the platform will result in game over, and the game will automatically restart
-2. The more pachimari plushies that are picked up, the faster the katamari clump will roll, making it easier to move around but more difficult to stay on the platform
-3. The camera angle is still so be careful of where to roll 
+1. Falling off the platform will result in game over, and the game will automatically restart.
+2. The more pachimari plushies that are picked up, the faster the katamari clump will roll, making it easier to move around but more difficult to stay on the platform.
+3. The camera angle is still so be careful of where to roll.
 
 ## Code
 
-Made with Unity Engine 
+Made with Unity Engine.
 
-Improved functionalties, movement, and game design are welcomed
+Very basic functionalties as of now.
+
+Suggestions are welcomed :)
 
 ## Sources 
 
