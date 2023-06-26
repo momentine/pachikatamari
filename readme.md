@@ -10,13 +10,15 @@ A 3D game that combines:
 
 In this game, the player controls a Pachimari (which acts as the katamari) and rolls it around to pick up other pachimari plushies. 
 
-![pachikatamari game](images/pachi.png)
+![pachikatamari game](images/pachi clip.mov | width=300)
+
+![pachikatamari game](images/pachi.png | width=300)
 
 ## Rules
 
 1. Falling off the platform will result in game over, and the game will automatically restart
-2. The more pachimari plushies that are picked up, the faster the katamari clump will roll, making it easier to roll around but more difficult to stay on the platform
-3. The camera angle is still so be careful where to roll
+2. The more pachimari plushies that are picked up, the faster the katamari clump will roll, making it easier to move around but more difficult to stay on the platform
+3. The camera angle is still so be careful of where to roll 
 
 ## Code
 
