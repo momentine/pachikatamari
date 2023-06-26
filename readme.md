@@ -5,7 +5,7 @@
 Idea based on a pun
 
 A 3D game that combines: 
-- Overwatch's Pachimari (パチマリ, /patɕimaɺi/), a Japanese plush of a half-onion, half-octopus creature. 
+- Overwatch's Pachimari (パチマリ), a Japanese plush of a half-onion, half-octopus creature. 
 - & Katamari Damacy's katamari (塊), a sticky clump that picks up objects. 
 
 In this game, the player controls a Pachimari (which acts as the katamari) and rolls it around to pick up other pachimari plushies. 
