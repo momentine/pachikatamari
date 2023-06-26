@@ -1,6 +1,8 @@
 # Pachikatamari (パチ塊)
 
-## Descripton
+## Descripton 
+
+Idea stemmed from a pun 
 
 A 3D game that combines: 
 - Overwatch's Pachimari (パチマリ, /patɕimaɺi/), a Japanese plush of a half-onion, half-octopus creature. 
@@ -8,7 +10,7 @@ A 3D game that combines:
 
 In this game, the player controls a Pachimari (which acts as the katamari) and rolls it around to pick up other pachimari plushies. 
 
-![pachikatamari game](https://github.com/momentine/[pachikatamari]/images/main/pachi]
+![pachikatamari game](https://github.com/momentine/[pachikatamari]/images/main/pachi)
 
 ## Rules
 1. Falling off the platform will result as game over, and the game will automatically restart
