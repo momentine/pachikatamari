@@ -28,5 +28,6 @@ Improved functionalties, movement, and game design are welcomed
 
 ## Sources 
 
-- [Free 3D Pachimari model](https://www.cgtrader.com/free-3d-models/character/fantasy-character/pachimari-fan-art) used
-- Free Skybox from Unity assets store used
+Files used from:
+- [Free 3D Pachimari model](https://www.cgtrader.com/free-3d-models/character/fantasy-character/pachimari-fan-art)
+- Free Skybox from Unity assets store
