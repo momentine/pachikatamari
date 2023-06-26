@@ -11,11 +11,7 @@ A 3D game that combines:
 In this game, the player controls a Pachimari (which acts as the katamari) and rolls it around to pick up other pachimari plushies. 
 
 <p align="center">
-  <img src="images/pachi clip.mov" alt="pachikatamari clip" width="300">
-</p>
-
-<p align="center">
-  <img src="images/pachi.png" alt="pachikatamari game" width="300">
+  <img src="images/pachi.png" alt="pachikatamari game" width="400">
 </p>
 
 ## Rules
